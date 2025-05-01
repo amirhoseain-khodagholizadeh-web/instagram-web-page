@@ -3,10 +3,10 @@
 
 
 
-![viewfinal](https://github.com/amirhoseain-khodagholizadeh-web/instagram-web/blob/main/assets/images/github2.JPG)
-![viewfinal](https://github.com/amirhoseain-khodagholizadeh-web/instagram-web/blob/main/assets/images/github3.JPG)
+![viewfinal](https://github.com/amirhoseain-khodagholizadeh-web/instagram-web-page/blob/main/assets/images/github2.JPG)
+![viewfinal](https://github.com/amirhoseain-khodagholizadeh-web/instagram-web-page/blob/main/assets/images/github3.JPG)
 
-![viewfinal](https://github.com/amirhoseain-khodagholizadeh-web/instagram-web/blob/main/assets/images/github1.JPG)
+![viewfinal](https://github.com/amirhoseain-khodagholizadeh-web/instagram-web-page/blob/main/assets/images/github1.JPG)
 
 -🔗 [Demo Project](https://amirhoseain-khodagholizadeh-web.github.io/instagram-web-page/)
 
