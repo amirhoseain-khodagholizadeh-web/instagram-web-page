@@ -1,7 +1,6 @@
 # Instagram web page
 
-
-
+without responsive
 
 ![viewfinal](https://github.com/amirhoseain-khodagholizadeh-web/instagram-web-page/blob/main/assets/images/github2.JPG)
 ![viewfinal](https://github.com/amirhoseain-khodagholizadeh-web/instagram-web-page/blob/main/assets/images/github3.JPG)
